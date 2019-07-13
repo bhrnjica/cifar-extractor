@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/CIFAR-Extractor
+/CIFAR-Extractor/bin/Debug/netcoreapp2.1
+/CIFAR-Extractor/obj
